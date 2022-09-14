@@ -2,9 +2,21 @@
 
 [WebViewer](https://www.pdftron.com/documentation/web/) is a powerful JavaScript-based PDF Library that's part of the [PDFTron PDF SDK](https://www.pdftron.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
+This repo provides a backend module that facilitates server side operations that work with WebViewer.
+
 ![WebViewer UI](https://www.pdftron.com/downloads/pl/webviewer-ui.png)
 
-This repo is specifically designed for any users interested in customizing and integrating WebViewer into Mendix low-code app. You can watch [a video here](https://youtu.be/a9HNVzbmDLM) to help you get started.
+## Features
+
+- Updating documents after annotating
+
+More to come!
+
+## Installation
+
+1. Download the module package from the marketplace or export the package manually (steps below).
+2. Right click on your app package in Mendix Studio and import a module package.
+3. Find the module package to import it.
 
 ## Initial setup
 
