@@ -18,6 +18,10 @@ To export your module, right click on the `WebViewer` module and click `Export m
 
 See [API documentation](https://www.pdftron.com/documentation/web/guides/ui/apis).
 
+## Support
+
+https://www.pdftron.com/form/trial-support/
+
 ## Contributing
 
 See [contributing](./CONTRIBUTING.md).
