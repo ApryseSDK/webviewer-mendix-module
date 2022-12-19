@@ -42,7 +42,7 @@ public class SaveDocument extends CustomJavaAction<java.lang.String>
 		// With the file ID we got from the request, create an identifier object
 		IMendixIdentifier id = this.fileData.getMendixObject().getId();
 
-		return id.toString();
+		return String.valueOf(id.toLong());
 		// END USER CODE
 	}
 
