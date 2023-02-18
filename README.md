@@ -1,6 +1,6 @@
 # WebViewer - Mendix Web Module
 
-[WebViewer](https://www.pdftron.com/documentation/web/) is a powerful JavaScript-based PDF Library that's part of the [PDFTron PDF SDK](https://www.pdftron.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
+[WebViewer](https://docs.apryse.com/documentation/web/) is a powerful JavaScript-based PDF Library that's part of the [Apryse PDF SDK](https://www.apryse.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
 This repo provides a backend module that facilitates server side operations that work with WebViewer.
 
@@ -28,11 +28,11 @@ To export your module, right click on the `WebViewer` module and click `Export m
 
 ## WebViewer APIs
 
-See [API documentation](https://www.pdftron.com/documentation/web/guides/ui/apis).
+See [API documentation](https://docs.apryse.com/api/web/WebViewerInstance.html).
 
 ## Support
 
-https://www.pdftron.com/form/trial-support/
+https://apryse.com/form/trial-support
 
 ## Contributing
 
@@ -41,4 +41,3 @@ See [contributing](./CONTRIBUTING.md).
 ## License
 
 See [license](./LICENSE).
-![](https://onepixel.pdftron.com/webviewer-react-sample)
