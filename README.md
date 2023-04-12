@@ -9,6 +9,8 @@ This repo provides a backend module that facilitates server side operations that
 ## Features
 
 - Updating documents after annotating
+- Exporting/importing XFDF
+- Real-time collaboration
 
 More to come!
 
